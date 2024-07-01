@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Email Service API",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This program focuses on the creation of an REST API using the serverless framework.",
+    url: "https://github.com/Avik816/email-api-serverless.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Hangman Game in python",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project consists of creatying an algorithm for the Hangman game and advancing it with each level. Also saving the progress in a local database using sqlite3.",
+    url: "https://github.com/Avik816/Hangman-Game-Upgrade.git",
   },
   {
-    title: "My Resume Site",
+    title: "Hyperparameter Tuning",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project focuses on hyperparameter tuning of some popular machine learning algorithms.",
+    url: "https://github.com/Avik816/Hyperparameter-Tuning.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Car Price Prediction",
+    description: "Predicting the car price using machine learning algorithm.",
+    url: "https://github.com/Avik816/Prediction.git",
   },
 ];
 

@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "With a robust background in data science, data engineering, and full stack development, you excel at transforming data into actionable insights, building and maintaining scalable data pipelines, and creating comprehensive web applications. Your expertise spans from data analysis, machine learning model development, and big data technologies to front-end and back-end development, ensuring seamless integration and functionality across the entire technology stack. Your multidisciplinary skills enable you to tackle complex problems and deliver end-to-end solutions that drive innovation and efficiency.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Full Stack Developer",
+  "Data Science",
+  "Machiner Learning",
+  "Data Enginnering",
+  "Python",
+  "JAVA",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my programming background I continually look for new and better ways to make tech easily accessible by all.";
 
 const About = () => {
   return (
