@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{Avik816}.github.io/{react-based-app}'",
+    "build-gh": "parcel build --public-url 'https://Avik816.github.io/react-based-app'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
